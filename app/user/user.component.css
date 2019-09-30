@@ -1,0 +1,26 @@
+.container {
+    padding: 2%;
+    float: left;
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.search-row .col-md-3 {
+    max-width: 22%;
+}
+
+.for-loop .list-item {
+    border-top-style: dotted !important;
+    border-top-color: blue !important;
+    padding-top: 15px !important;
+}

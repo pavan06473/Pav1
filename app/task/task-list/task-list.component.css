@@ -1,0 +1,25 @@
+.no-left-padding {
+  padding-left: 0% !important;
+}
+
+.no-right-padding {
+  padding-right: 0% !important;
+}
+
+.no-v-padding {
+  padding-top: 2% !important;
+  padding-bottom: 0% !important;
+}
+
+.card {
+  width: 95%;
+}
+
+.card-body, .card-title {
+  text-align: center;
+}
+
+.container {
+  padding: 2%;
+  float: left;
+}
